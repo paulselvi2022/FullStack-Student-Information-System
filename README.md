@@ -42,14 +42,23 @@ This project was bootstrapped with Create React App.
 
 ### Prerequisites
 You need to install
+
   *Node.js
+  
   *Java 20
+  
   *MySql Database
+  
   *Intellij IDEA
+  
   *VS Code
+  
   For testing API
+  
   *POSTMAN
+  
   For Design
+  
   *Material UI
 
 
@@ -189,21 +198,25 @@ tests.cmd is used just to run CommunityRunTestsBuildTarget from the command line
 
 
 ## 🔧 Running the tests <a name = "tests"></a>
-Explain how to run the automated tests for this system.
+The outputs at the frontend,database and backend parts are attached below.
 
 ### Break down into end to end tests
-Explain what these tests test and why
+Front end:
+![reactoutput1](https://github.com/paulselvi2022/FullStack-Student-Information-System/assets/120387943/683ae948-80bf-454e-ae93-d985599f09a4)
+![reactoutput2](https://github.com/paulselvi2022/FullStack-Student-Information-System/assets/120387943/ac6c9085-c2cc-4595-9540-ae0c52a1f33f)
 
-```
-Give an example
-```
+Backend:
+![backendoutput](https://github.com/paulselvi2022/FullStack-Student-Information-System/assets/120387943/f703fe7f-0373-4ce7-a6e0-b61a0e59cd34)
+
+
+Database:
+![getstudentdetails](https://github.com/paulselvi2022/FullStack-Student-Information-System/assets/120387943/c0c6e27b-6de8-479a-a01d-a4ad9ff59224)
+![addstudentdetails](https://github.com/paulselvi2022/FullStack-Student-Information-System/assets/120387943/3d13fee8-f9a4-40a8-8c3d-0d06e215cb4c)
 
 ### And coding style tests
-Explain what these tests test and why
+During debugging,the output is shown below,
+![coderun](https://github.com/paulselvi2022/FullStack-Student-Information-System/assets/120387943/ee010bda-54e9-4c41-b2eb-54481d572074)
 
-```
-Give an example
-```
 
 ## 🎈 Usage <a name="usage"></a>
 Add notes about how to use the system.
