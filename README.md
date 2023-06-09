@@ -34,7 +34,7 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-    Create Full stack web application using Spring Boot and React. In this video we will use Spring Boot ( MVC, JPA, Hibernate) and Mysql Database to create the Backend application (Restful web service API) with and use React.js to create the frontend application with Material UI and React Hooks( useState, useEffect) with functional components. We will build simple full stack project with RESTful Web services API and also use fetch (you can use axios) for consuming REST API.
+    Create Full stack student information system using Spring Boot and React. In this video we will use Spring Boot ( MVC, JPA, Hibernate) and Mysql Database to create the Backend application (Restful web service API) with and use React.js to create the frontend application with Material UI and React Hooks( useState, useEffect) with functional components. 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 Getting Started with Create React App
@@ -219,7 +219,7 @@ During debugging,the output is shown below,
 
 
 ## 🎈 Usage <a name="usage"></a>
-Add notes about how to use the system.
+This project is used to create Full stack student information system using Spring Boot and React. In this project, we will use Spring Boot ( MVC, JPA, Hibernate) and Mysql Database to create the Backend application (Restful web service API) with and use React.js to create the frontend application with Material UI and React Hooks( useState, useEffect) with functional components. 
 
 ## 🚀 Deployment <a name = "deployment"></a>
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
