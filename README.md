@@ -8,7 +8,9 @@
 <h3 align="center">Fullstack Student Information System</h3>
 
 <div align="center">
+  
  Visit at:https://648bd35a2c8d361f700da9bd--jazzy-empanada-bdec22.netlify.app/
+ 
 
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
   [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
@@ -210,6 +212,8 @@ This project is used to create Full stack student information system using Sprin
 ## 🚀 Deployment <a name = "deployment"></a>
 
 MyProject is deployed at : https://648bd35a2c8d361f700da9bd--jazzy-empanada-bdec22.netlify.app/
+
+Output Video Link at LinkedIn : https://www.linkedin.com/posts/paul-selvi-3a9587207_fullstack-java-skill-activity-7075363122487705600-Mxim?utm_source=share&utm_medium=member_desktop
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [MySqlDB](https://www.phpmyadmin.net/) - Database
