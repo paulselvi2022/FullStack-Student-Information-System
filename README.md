@@ -19,7 +19,7 @@
 
 ---
 
-<p align="center">In this project,Student informations such as name and address are collected and stored inside a database.
+<p align="center">In this project,Student informations such as name and address are collected and stored inside a database using MySql database,SpringBoot,React.js and Postman API Platform.
     <br> 
 </p>
 
@@ -64,44 +64,25 @@ You need to install
 
 
 ### Installing
+You’ll need to have Node 14.0.0 or later version on your local development machine (but it’s not required on the server). We recommend using the latest LTS version. You can use nvm (macOS/Linux) or nvm-windows to switch Node versions between different projects.
 
-Create React App
-Available Scripts
-In the project directory, you can run:
+To create a new app, you may choose one of the following methods:
 
-npm start
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in your browser.
+npx
+npx create-react-app my-app
+(npx is a package runner tool that comes with npm 5.2+ and higher, see instructions for older npm versions)
 
-The page will reload when you make changes.
-You may also see any lint errors in the console.
+npm
+npm init react-app my-app
+npm init <initializer> is available in npm 6+
+Once the installation is done, you can open your project folder:
 
-npm test
-Launches the test runner in the interactive watch mode.
-See the section about running tests for more information.
+cd my-app
+Inside the newly created project, you can run some built-in commands:
 
-npm run build
-Builds the app for production to the build folder.
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.
-Your app is ready to be deployed!
-
-See the section about deployment for more information.
-
-npm run eject
-Note: this is a one-way operation. Once you eject, you can't go back!
-
-If you aren't satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except eject will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-Learn More
-You can learn more in the Create React App documentation.
-
-To learn React, check out the React documentation.
+npm start or yarn start
+Runs the app in development mode.
+Open http://localhost:3000 to view it in the browser.
 
 Code Splitting
 This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
@@ -122,11 +103,15 @@ npm run build fails to minify
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 IntelliJ IDEA Community Edition:
+
 These instructions will help you build IntelliJ IDEA Community Edition from source code, which is the basis for IntelliJ Platform development. The following conventions will be used to refer to directories on your machine:
 
 <USER_HOME> is your home directory.
+
 <IDEA_HOME> is the root directory for the IntelliJ source code.
+
 Getting IntelliJ IDEA Community Edition Source Code
+
 IntelliJ IDEA Community Edition source code is available from github.com/JetBrains/intellij-community by either cloning or downloading a zip file (based on a branch) into <IDEA_HOME>. The default is the master branch.
 
 The master branch contains the source code which will be used to create the next major version of IntelliJ IDEA. The branch names and build numbers for older releases of IntelliJ IDEA can be found on the page of Build Number Ranges.
@@ -223,7 +208,8 @@ During debugging,the output is shown below,
 This project is used to create Full stack student information system using Spring Boot and React. In this project, we will use Spring Boot ( MVC, JPA, Hibernate) and Mysql Database to create the Backend application (Restful web service API) with and use React.js to create the frontend application with Material UI and React Hooks( useState, useEffect) with functional components. 
 
 ## 🚀 Deployment <a name = "deployment"></a>
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
+MyProject is deployed at : https://648bd35a2c8d361f700da9bd--jazzy-empanada-bdec22.netlify.app/
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [MySqlDB](https://www.phpmyadmin.net/) - Database
@@ -231,11 +217,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a>
-We are grateful to the authors of existing related projects for their ideas and collaboration:
 
-@skill-lync
-
-See also the list of [contributors](https://github.com/skill-lync-cs/project-documentation) who participated in this project.
+I want to express my deepest gratitude to the exceptional team of Skill-Lync [https://skill-lync.com/] who have poured their passion, expertise, and countless hours into guiding me in achieving this fleet.
+Their dedication and commitment have been truly inspiring, and I would like to mention Mr.Bhupendra Parihar<bhupendraparihar@skill-lync.com> and our internship mentor Mr.R.Bheemesh Raghupathy <bheemesh.r@skill-lync.com> for their special support.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Skill-Lync
+Skill-Lync [https://skill-lync.com/]
