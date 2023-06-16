@@ -8,7 +8,7 @@
 <h3 align="center">Fullstack Student Information System</h3>
 
 <div align="center">
- Visit at:https://paulselvi2022.github.io/FullStack-Student-Information-System/
+ Visit at:https://648bd35a2c8d361f700da9bd--jazzy-empanada-bdec22.netlify.app/
 
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
   [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
