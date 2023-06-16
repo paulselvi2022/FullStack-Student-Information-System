@@ -1,4 +1,4 @@
-# project-documentation ---  FULLSTACK STUDENT INFORMATION SYSTEM
+# FULLSTACK STUDENT INFORMATION SYSTEM
 
 <p align="center">
   <a href="" rel="noopener">
